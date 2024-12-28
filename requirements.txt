@@ -1,3 +1,5 @@
+openpyxl==3.1.2
+pandas
 streamlit
 scikit-learn
 langchain-chroma
